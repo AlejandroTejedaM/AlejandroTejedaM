@@ -9,5 +9,7 @@
  * @author Usuario
  */
 public class AutoElectrico extends Motocicleta{
-    
+    public static void main(String[] args) {
+        System.out.print("Hola pa");
+    }
 }
